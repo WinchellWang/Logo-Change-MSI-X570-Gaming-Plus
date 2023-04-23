@@ -5,7 +5,7 @@ Source: https://github.com/LongSoft/UEFITool & AMI Change Logo Tool
 
 # Software Requirements
 
-There are two software has the capacity to replace the logo, but only one I have tried.
+There are two softwares have the capacity to replace the logo, but only one that I have tried.
 
 - [UEFITool](https://github.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/releases/tag/ChangeLogo)
 
@@ -21,7 +21,7 @@ There are two software has the capacity to replace the logo, but only one I have
 
     Please change the 'Files of type' to 'All Files (\*.*)', if thr ROM does shows up in the selection.
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/open_changelogo.jpg"  width="40%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/open_changelogo.jpg">
 
     2.2 Extract ROM
 
@@ -29,11 +29,11 @@ There are two software has the capacity to replace the logo, but only one I have
 
     Just need to chose the first one with suffix, and click "Save Logo". The image usually will converted to jpg type.
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/check_img_type.jpg"  width="40%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/check_img_type.jpg">
 
-    Default BIOS logo extracted from ROM. <mark>(The actual format is **bmp**)</mark>
+    Default BIOS logo extracted from ROM. <mark>(The actual format is bmp in this ROM)</mark>
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/splash.jpg"  width="30%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/splash.jpg"  width="50%">
 
 3. Modify Logo
 
@@ -41,11 +41,11 @@ There are two software has the capacity to replace the logo, but only one I have
 
     Here I changed it to a Microsoft logo as an example.
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/img_save.jpg"  width="80%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/img_save.jpg">
 
     Then export the image as bmp. It would be fine if just keep the default setting when save the image.
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/exp_opt.jpg"  width="30%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/exp_opt.jpg"  width="60%">
 
 4. Replace the logo in ROM by [UEFITool](https://github.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/releases/tag/ChangeLogo)
 
@@ -61,7 +61,7 @@ There are two software has the capacity to replace the logo, but only one I have
 
     Ctrl + F to open the search box, and switch to Text option. Search 'logo', and it will show you all the logo files location.
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/uefi_logo_search.jpg"  width="60%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/uefi_logo_search.jpg">
 
     4.3 Replace the images in ROM
 
@@ -69,11 +69,11 @@ There are two software has the capacity to replace the logo, but only one I have
 
     Double click each line in Messages box to jump into the files location, as we are looking for the file which has a section named 'Raw' OR 'Freeform subtype GUID'
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/rpl_rom_img_1.jpg"  width="60%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/rpl_rom_img_1.jpg">
 
     Then right click the section, and replace the body to your logo.bmp. The software will show something like Rebuild, Remove, and Replace in the section you are changing at the Section column.
 
-    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/rpl_rom_img_2.jpg"  width="60%">
+    <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/rpl_rom_img_2.jpg">
 
     There are 4 images should be replaced in the ROM, if you are changing the logo for MSI X570 Gaming Plus. 
 
@@ -93,4 +93,4 @@ There are two software has the capacity to replace the logo, but only one I have
 
 My new logo :D
 
-<img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/launch.gif"  width="40%">
+<img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/launch.gif"  width="50%">
