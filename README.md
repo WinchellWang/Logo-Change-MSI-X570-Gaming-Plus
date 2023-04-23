@@ -23,7 +23,7 @@ There are two softwares have the capacity to replace the logo, but only one that
 
     <img src="https://raw.githubusercontent.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/main/jpg/open_changelogo.jpg">
 
-    2.2 Extract ROM
+    2.2 Extract logo
 
     **More importantly, check the image type**
 
