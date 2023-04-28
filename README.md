@@ -29,11 +29,11 @@ There are two softwares have the capacity to replace the logo, but only one that
 
     Just need to chose the first one with suffix, and click "Save Logo". The image usually will converted to jpg type.
 
-    ![check_img_type](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/check_img_type.jpg)
+    ![check_img_type](/jpg/check_img_type.jpg)
 
     Default BIOS logo extracted from ROM. <mark>(The actual format is bmp in this ROM)</mark>
 
-    ![splash](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/splash.jpg)
+    ![splash](/jpg/splash.jpg)
 
 3. Modify Logo
 
