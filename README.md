@@ -41,11 +41,11 @@ There are two softwares have the capacity to replace the logo, but only one that
 
     Here I changed it to a Microsoft logo as an example.
 
-    ![img_save](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/img_save.jpg)
+    ![img_save](/jpg/img_save.jpg)
 
     Then export the image as bmp. It would be fine if just keep the default setting when save the image.
 
-    ![exp_opt](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/exp_opt.jpg)
+    ![exp_opt](/jpg/exp_opt.jpg)
 
 4. Replace the logo in ROM by [UEFITool](https://github.com/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/releases/tag/ChangeLogo)
 
@@ -61,7 +61,7 @@ There are two softwares have the capacity to replace the logo, but only one that
 
     Ctrl + F to open the search box, and switch to Text option. Search 'logo', and it will show you all the logo files location.
 
-    ![uefi_logo_search](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/uefi_logo_search.jpg)
+    ![uefi_logo_search](/jpg/uefi_logo_search.jpg)
 
     4.3 Replace the images in ROM
 
@@ -69,11 +69,11 @@ There are two softwares have the capacity to replace the logo, but only one that
 
     Double click each line in Messages box to jump into the files location, as we are looking for the file which has a section named 'Raw' OR 'Freeform subtype GUID'
 
-    ![rpl_rom_img_1](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/rpl_rom_img_1.jpg)
+    ![rpl_rom_img_1](/jpg/rpl_rom_img_1.jpg)
 
     Then right click the section, and replace the body to your logo.bmp. The software will show something like Rebuild, Remove, and Replace in the section you are changing at the Section column.
 
-    ![rpl_rom_img_2](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/rpl_rom_img_2.jpg)
+    ![rpl_rom_img_2](/jpg/rpl_rom_img_2.jpg)
 
     There are 4 images should be replaced in the ROM, if you are changing the logo for MSI X570 Gaming Plus. 
 
@@ -93,4 +93,4 @@ There are two softwares have the capacity to replace the logo, but only one that
 
 My new logo :D
 
-![launch](https://cdn.jsdelivr.net/gh/MoaxWang/Logo-Change-MSI-X570-Gaming-Plus/jpg/launch.gif)
+![launch](/jpg/launch.gif)
